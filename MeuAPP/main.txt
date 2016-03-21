@@ -1,7 +1,17 @@
-Versão: 0.1
+Versão: 0.3
 Criador: Davi Teodoro
 
 def funcionabilidades {
 	func_A
 	func_B
+}
+
+def novas_funcionabilidades {
+	Func_C
+	Func_D
+
+
+def sou_outra_funcao {
+	func_E
+	func_F
 }
