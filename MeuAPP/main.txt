@@ -2,6 +2,7 @@ Versão: 0.3
 Criador: Davi Teodoro
 
 def funcionabilidades {
+<<<<<<< HEAD
 	Func_A
 	Func_B
 }
@@ -14,4 +15,8 @@ def novas_funcionabilidades {
 def sou_outra_funcao {
 	func_E
 	func_F
+=======
+	func_A
+	func_B
+>>>>>>> refs/remotes/origin/master
 }
