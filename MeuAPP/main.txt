@@ -1,4 +1,4 @@
-Versão: 0.3
+Versï¿½o: 0.3
 Criador: Davi Teodoro
 
 def funcionabilidades {
@@ -14,4 +14,8 @@ def novas_funcionabilidades {
 def sou_outra_funcao {
 	func_E
 	func_F
+}
+
+def mais_uma {
+	print ('eu nasci na nuvem')
 }
